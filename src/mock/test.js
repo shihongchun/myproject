@@ -18,4 +18,5 @@ var isIsomorphic = function (s, t) {
 }
 console.log('ffff')
 console.log('dddd')
+console.log('aaaa')
 console.log(isIsomorphic('abadd', 'bcbaa'))
