@@ -16,7 +16,6 @@ var isIsomorphic = function (s, t) {
   }
   return newA.toString() === newB.toString()
 }
-console.log('ffff')
 console.log('dddd')
 console.log('aaaa')
 console.log(isIsomorphic('abadd', 'bcbaa'))
